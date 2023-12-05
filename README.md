@@ -4,4 +4,4 @@
 
 # Semana 1
 
-- Configurar un ambiente de trabajo 
+- [Configurar un ambiente de trabajo](./guias/semana-1-ambiente.md) 
