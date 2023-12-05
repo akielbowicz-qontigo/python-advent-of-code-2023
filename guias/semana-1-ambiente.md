@@ -27,3 +27,13 @@
 1. Crear en `vscode` una carpeta que se llame `problemas`
 1. Dentro de `problemas` crear la carpeta `dia-1`
 1. Dentro de `dia-1` crear el archivo `solucion.py`
+
+## Instalar la extension de Python de VSCode
+
+## Verificar que podemos ejecutar el script
+
+1. Agregar el siguiente código a `solucion.py`
+    ```python
+    print("Hola mundo!")
+    ```
+1. Ejecutar el script desde VSCode
