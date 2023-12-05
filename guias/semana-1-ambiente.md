@@ -40,7 +40,9 @@
 
 
 
-[Tutorial de python](https://docs.python.org/es/3.12/tutorial/)
-[microtutorial de python](https://argentinaenpython.com/material-de-difusion/microtutorial_argentina-en-python.pdf)
-[exercism](https://exercism.org/tracks/python)
-[freeCodeCamp](https://www.freecodecamp.org/espanol/learn/scientific-computing-with-python/#python-for-everybody)
+# Materiales para aprender Python
+
+- [Tutorial de python](https://docs.python.org/es/3.12/tutorial/)
+- [microtutorial de python](https://argentinaenpython.com/material-de-difusion/microtutorial_argentina-en-python.pdf)
+- [exercism](https://exercism.org/tracks/python)
+- [freeCodeCamp](https://www.freecodecamp.org/espanol/learn/scientific-computing-with-python/#python-for-everybody)
