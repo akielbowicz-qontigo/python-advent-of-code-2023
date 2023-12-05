@@ -42,3 +42,4 @@
 
 [Tutorial de python](https://docs.python.org/es/3.12/tutorial/)
 [microtutorial de python](https://argentinaenpython.com/material-de-difusion/microtutorial_argentina-en-python.pdf)
+[exercism](https://exercism.org/tracks/python)
